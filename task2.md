@@ -17,3 +17,9 @@ void main() {
 
   // Add more logic based on Task 02 requirements
 }
+## 🔹 Output Screenshot
+
+Below is the output of the Dart program executed using DartPad:
+
+![Task 02 Output](<img width="1920" height="1080" alt=Screenshot (129)" src="https://github.com/user-attachments/assets/99c4c1cf-641c-425b-871c-4b2811caea53" />
+.png)
