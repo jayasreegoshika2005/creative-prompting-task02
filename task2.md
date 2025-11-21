@@ -1,6 +1,19 @@
+# Task 02 - Dart Program
+
+## 🔹 Objective
+Write a Dart program that performs the given task (Prompting / Creativity task).
+
+---
+
+## 🔹 Dart Program
+
+```dart
 void main() {
-  String input = " ";
-  print("Enter a prompt: ");
-  input = "Creativity Task 02 - Prompting for Creativity"; // Example input
-  print(input);
+  // Example program—replace with your actual task logic
+  print("This is Task 02 Dart Program!");
+
+  String prompt = "Technology and Creativity";
+  print("User Prompt: $prompt");
+
+  // Add more logic based on Task 02 requirements
 }
