@@ -1,0 +1,6 @@
+Generate three startup ideas in a formal and analytical tone. For each idea provide:
+1) Short name
+2) One-sentence description
+3) Target market
+4) Revenue model (2-3 sentences)
+Use clear bullet points.
